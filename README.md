@@ -1,2 +1,2 @@
 # speed_typing_test
-This is a pythonn based project that allows user to test their typing speed. 
+This is a python based project that allows user to test their typing speed. 
